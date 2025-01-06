@@ -22,7 +22,7 @@ function Hero() {
               <div className="relative inline-flex items-center justify-center mt-8 sm:mt-12 group">
                 <div className="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:from-purple-500 group-hover:to-cyan-500"></div>
                 <Link
-                  href="/https://www.ecoysoft.com/"
+                  href="https://www.ecoysoft.com/"
                   title=""
                   className="relative inline-flex items-center justify-center px-8 py-3 text-base font-normal text-white bg-black border border-transparent rounded-full"
                   role="button"
